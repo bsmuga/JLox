@@ -51,3 +51,6 @@ desktop.ini
 # Virtual machine crash logs
 hs_err_pid*
 replay_pid*
+
+# Development notes (local only)
+dev-notes/
