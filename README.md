@@ -1,2 +1,2 @@
-# JLox
-My first interpreter following Crafting Interpreters by R. Nystrom
+# JLox Interpreter
+A tree-walk interpreter for the Lox programming language
